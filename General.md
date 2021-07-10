@@ -1,6 +1,6 @@
 # General
 
-# Termnial
+# 1. Termnial
 
 ## [Homebrew](https://brew.sh/)
 
@@ -23,8 +23,9 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 ```
 ---
 
+<br></br>
 
-# Programs
+# 2. Programs
 
 ## [Sequel Pro](https://sequelpro.com/)
 
