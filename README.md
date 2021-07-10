@@ -3,4 +3,4 @@
 ## Contents
 
 - Node
-  - Volta[a relative link](Node.md#volta)
+  - [Volta](Node.md#volta)
