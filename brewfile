@@ -1,0 +1,37 @@
+tap "homebrew/cask"
+
+
+brew 'wget'
+brew 'mas'
+brew 'git-flow'
+brew 'lazygit'
+brew 'composer'
+brew 'mas'
+brew 'drud/ddev/ddev'
+brew 'imagemagick'
+brew 'z'
+brew 'mkcert'
+brew 'nss'
+brew 'gulp-cli'
+brew 'volta'
+
+
+cask "google-chrome"
+cask "firefox"
+
+cask 'rectangle'
+cask '1password'
+cask 'alfred'
+cask 'docker'
+cask 'microsoft-teams'
+cask 'jetbrains-toolbox'
+cask 'postman'
+cask 'mamp'
+cask 'visual-studio-code'
+cask 'sketch'
+cask 'zeplin'
+cask '1password'
+cask 'forklift'
+cask 'sequel-ace'
+cask 'maccy'
+cask 'microsoft-edge'
